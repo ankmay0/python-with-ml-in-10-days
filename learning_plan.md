@@ -75,6 +75,3 @@ Welcome to your intensive 10-day journey into the world of Data Science and Mach
 - **IDE:** [VS Code](https://code.visualstudio.com/) with Python Extension.
 - **Environment:** [Jupyter Notebooks](https://jupyter.org/) or [Anaconda](https://www.anaconda.com/).
 - **Libraries:** `pip install numpy pandas matplotlib seaborn scikit-learn`
-
----
-*"The best way to learn is to build. Start coding today!"* 🚀
